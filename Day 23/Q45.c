@@ -12,3 +12,4 @@ int main() {
     printf("Sum of series: %.2f", sum);
     return 0;
 }
+
